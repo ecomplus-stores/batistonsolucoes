@@ -3,8 +3,8 @@
   "currency_symbol": "R$",
   "primary_color": "#0e3c80",
   "theme": {
-    "bootswatch": "flatly",
-    "custom": "_"
+    "bootswatch": "united",
+    "custom": "clean-white"
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/batistonsolucoes",
