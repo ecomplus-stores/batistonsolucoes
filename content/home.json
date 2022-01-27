@@ -30,6 +30,23 @@
       "headless": false,
       "limit": 12,
       "page": 1
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 0,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/climatizadores-evaporativos.jpg"
+        }
+      ]
+    },
+    {
+      "type": "brands-carousel",
+      "limit": 24,
+      "offset": 0
     }
   ]
 }
