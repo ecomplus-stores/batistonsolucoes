@@ -1,7 +1,9 @@
 {
   "marketing_stripe": {
     "text": "LIDER EM CLIMATIZAÇÃO",
-    "link": ""
+    "link": "",
+    "background": "#013ca2",
+    "color": "#ffffff"
   },
   "contacts_stripe": {
     "pages": [
@@ -21,5 +23,5 @@
     "random": 6,
     "full_width": true
   },
-  "search_input": true
+  "search_input": false
 }
