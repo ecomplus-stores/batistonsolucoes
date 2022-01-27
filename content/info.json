@@ -8,11 +8,11 @@
     "text": "Parcele até 5X sem juros"
   },
   "exchange": {
-    "show": false,
-    "text": "Não gostou? A primeira troca é gratuita"
+    "show": true,
+    "text": "Siga-noss nas redes sociais e fique por dentro"
   },
   "promo": {
-    "show": false,
-    "text": "Diferentes promoções ao longo do ano!"
+    "show": true,
+    "text": "O melhor preço do Brasil!"
   }
 }
