@@ -4,7 +4,7 @@
   "primary_color": "#0e3c80",
   "theme": {
     "bootswatch": "flatly",
-    "custom": "clean-white"
+    "custom": "_"
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/batistonsolucoes",
@@ -18,7 +18,7 @@
   "favicon": "/img/uploads/favicon.png",
   "icons_font": "line-awesome",
   "country_code": "BR",
-  "secondary_color": "#738c97",
+  "secondary_color": "",
   "icon": "/img/uploads/logo-pizzaria-2-.png",
   "store_id": 34972,
   "description": "Atuando no mercado há mais de 10 anos, a Batiston Soluções é uma empresa focada em proporcionar os melhores produtos de climatização do mercado e em agradar nossos clientes com o maior conforto possível. Trabalhamos não só com qualidade garantida, mas também, com produtos 100% ecológicos, assim, contribuindo também com o meio-ambiente.",
