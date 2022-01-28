@@ -37,16 +37,17 @@
       "full_width": true,
       "slides": [
         {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/climatizadores-evaporativos.jpg"
+          "start": "2022-01-28T15:07:17.331Z",
+          "end": "2022-01-28T15:07:17.363Z",
+          "img": "/img/uploads/climatizadores-evaporativos-2-.jpg"
         }
       ]
     },
     {
       "type": "brands-carousel",
       "limit": 24,
-      "offset": 0
+      "offset": 0,
+      "sort": "name"
     }
   ]
 }
