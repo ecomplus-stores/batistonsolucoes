@@ -1,18 +1,18 @@
 {
   "shipping": {
     "show": true,
-    "text": "Entregamos para todo o Brasil"
+    "text": "Entregamos Para Todo O Brasil"
   },
   "installments": {
     "show": true,
-    "text": "Parcele até 5X sem juros"
+    "text": "Parcelamento Especial"
   },
   "exchange": {
     "show": true,
-    "text": "Siga-noss nas redes sociais e fique por dentro"
+    "text": "Acompanhe Nossas Redes Sociais"
   },
   "promo": {
     "show": true,
-    "text": "O melhor preço do Brasil!"
+    "text": "O Melhor Preço Do Brasil!"
   }
 }
