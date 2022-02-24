@@ -4,21 +4,23 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 0,
+      "autoplay": 100,
       "full_width": true,
       "slides": [
         {
-          "img": "/img/uploads/oferta-jogo-de-panelas-mercado-shops-banner-grande-3.jpg",
-          "link": "",
-          "alt": "",
-          "start": "",
-          "end": "",
-          "mobile_img": ""
+          "start": "2022-02-24T17:21:06.337Z",
+          "end": "2022-02-24T17:21:06.353Z",
+          "img": "/img/uploads/oferta-jogo-de-panelas-mercado-shops-banner-grande-3.jpg"
         },
         {
-          "start": "2022-02-21T13:16:43.183Z",
-          "end": "2022-02-21T13:16:43.202Z",
+          "start": "2022-02-24T17:18:47.897Z",
+          "end": "2022-02-24T17:18:47.912Z",
           "img": "/img/uploads/copia-de-climatizadores-evaporativos.png"
+        },
+        {
+          "start": "2022-02-24T17:18:48.823Z",
+          "end": "2022-02-24T17:18:48.849Z",
+          "img": "/img/uploads/copia-de-oferta-jogo-de-panelas-mercado-shops-banner-grande-3-.jpg"
         }
       ]
     },
