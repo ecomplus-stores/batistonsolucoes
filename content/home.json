@@ -10,17 +10,14 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/oferta-jogo-de-panelas-mercado-shops-banner-grande-3.jpg"
+          "img": "/img/uploads/oferta-jogo-de-panelas-mercado-shops-banner-grande-3.jpg",
+          "mobile_img": "/img/uploads/oferta-jogo-de-panelas-mercado-shops-banner-grande-3.jpg"
         },
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/copia-de-climatizadores-evaporativos.png"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/copia-de-oferta-jogo-de-panelas-mercado-shops-banner-grande-3-.jpg"
+          "img": "/img/uploads/copia-de-oferta-jogo-de-panelas-mercado-shops-banner-grande-3-.jpg",
+          "mobile_img": "/img/uploads/copia-de-oferta-jogo-de-panelas-mercado-shops-banner-grande-3-.jpg"
         }
       ]
     },
@@ -44,11 +41,17 @@
       "full_width": true,
       "slides": [
         {
-          "start": "2022-01-28T15:07:17.331Z",
-          "end": "2022-01-28T15:07:17.363Z",
-          "img": "/img/uploads/climatizadores-evaporativos-2-.jpg"
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/climatizadores-evaporativos-2-.jpg",
+          "mobile_img": "/img/uploads/climatizadores-evaporativos-2-.jpg"
         }
       ]
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/copia-de-climatizadores-evaporativos-2-.jpg",
+      "mobile_img": "/img/uploads/copia-de-climatizadores-evaporativos-2-.jpg"
     },
     {
       "type": "brands-carousel",
