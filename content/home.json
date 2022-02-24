@@ -60,7 +60,8 @@
       "limit": 20,
       "page": 1,
       "collection_id": "620502b87963422eeef7e893:categories:Industriais:/industriais",
-      "title": "Industriais"
+      "title": "Industriais",
+      "sort": "views"
     },
     {
       "type": "responsive-banner",
