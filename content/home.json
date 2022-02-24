@@ -73,7 +73,8 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "620501b07963422eeef7e6b9:categories:Climatizadores Evaporativos:/climatizadores-evaporativos"
+      "collection_id": "620501b07963422eeef7e6b9:categories:Climatizadores Evaporativos:/climatizadores-evaporativos",
+      "sort": "slug"
     },
     {
       "type": "brands-carousel",
