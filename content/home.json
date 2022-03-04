@@ -37,6 +37,12 @@
       "enabled": true
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/confira-2-.jpg",
+      "link": "https://www.batistonsolucoes.shop/tinta-isolante-termica-para-telhas-18l-bs-therm",
+      "mobile_img": "/img/uploads/confira-2-.jpg"
+    },
+    {
       "type": "collection-shelf",
       "shuffle": true,
       "collection_id": "6205028a7963422eeef7e802:categories:Axiais:/axiais",
