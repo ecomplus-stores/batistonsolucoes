@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.0d89529fa9fa4cf6ca4f89aca73faf38.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.c29c5e2cbe301bc803d158716e9e0b9f.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.4721f0cf37dad416ebd4fb636ea468b9.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.f22ad745b70b2289d4ec92c57a97bc37.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.1719cf6d7464135ff61e77e816d4d3d5.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Batiston Soluções - Líder em Climatização",
+  "short_name": "Batiston Soluções",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Atuando no mercado há mais de 10 anos, a Batiston Soluções é uma empresa focada em proporcionar os melhores produtos de climatização do mercado e em agradar nossos clientes com o maior conforto possível. Trabalhamos não só com qualidade garantida, mas também, com produtos 100% ecológicos, assim, contribuindo também com o meio-ambiente.",
+  "background_color": "#ffffff",
+  "theme_color": "#0e3c80"
+}
