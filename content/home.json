@@ -39,10 +39,16 @@
       "enabled": true
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/confira-2-.jpg",
-      "link": "https://www.batistonsolucoes.shop/tinta-isolante-termica-para-telhas-18l-bs-therm",
-      "mobile_img": "/img/uploads/confira-2-.jpg"
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/confira-2-.jpg"
+        }
+      ]
     },
     {
       "type": "collection-shelf",
@@ -77,9 +83,16 @@
       "sort": "slug"
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/copia-de-climatizadores-evaporativos-2-.jpg",
-      "mobile_img": "/img/uploads/copia-de-climatizadores-evaporativos-2-.jpg"
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/copia-de-climatizadores-evaporativos-2-.jpg"
+        }
+      ]
     },
     {
       "type": "collection-shelf",
