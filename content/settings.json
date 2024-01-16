@@ -1,14 +1,14 @@
 {
   "domain": "batistonsolucoes.netfily.app",
   "currency_symbol": "R$",
-  "primary_color": "#0e3c80",
+  "primary_color": "#003ca1",
   "theme": {
     "bootswatch": "united",
     "custom": "clean-white"
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/batistonsolucoes",
-  "logo": "/img/uploads/logo-pizzaria-2-.png",
+  "logo": "/img/uploads/logo-batiston-solucoes-2024.png",
   "name": "Batiston Soluções - Líder em Climatização",
   "short_name": "Batiston Soluções",
   "lang": "pt_br",
@@ -19,8 +19,8 @@
   "icons_font": "line-awesome",
   "country_code": "BR",
   "secondary_color": "",
-  "icon": "/img/uploads/logo-pizzaria-2-.png",
+  "icon": "/img/uploads/logo-batiston-solucoes-2024.png",
   "store_id": 35132,
   "description": "Atuando no mercado há mais de 10 anos, a Batiston Soluções é uma empresa focada em proporcionar os melhores produtos de climatização do mercado e em agradar nossos clientes com o maior conforto possível. Trabalhamos não só com qualidade garantida, mas também, com produtos 100% ecológicos, assim, contribuindo também com o meio-ambiente.",
-  "large_icon": "/img/uploads/logo-pizzaria-2-.png"
+  "large_icon": "/img/uploads/logo-batiston-solucoes-2024.png"
 }
