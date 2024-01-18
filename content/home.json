@@ -35,10 +35,6 @@
       ]
     },
     {
-      "type": "info-bar",
-      "enabled": true
-    },
-    {
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": false,
@@ -108,6 +104,10 @@
       "offset": 0,
       "sort": "name",
       "autoplay": 5000
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/dedicacao-bs.png"
     }
   ]
 }
