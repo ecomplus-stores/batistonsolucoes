@@ -35,10 +35,6 @@
       ]
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/dedicacao-bs.png"
-    },
-    {
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": false,
@@ -49,6 +45,10 @@
           "img": "/img/uploads/confira-2-.jpg"
         }
       ]
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/dedicacao-bs.png"
     },
     {
       "type": "collection-shelf",
