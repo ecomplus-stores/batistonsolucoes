@@ -14,7 +14,7 @@
     "list": []
   },
   "contacts": {
-    "title": "Contatos",
+    "title": "Contato",
     "phone_wpp": true,
     "socials": true,
     "email": true,
@@ -40,6 +40,7 @@
     "mastercard": true,
     "citibank": false,
     "mais": false,
+    "pix": true,
     "itau": true
   },
   "credits": "Batiston Soluções LTDA ME - CNPJ: 13.311.694/0001-20 / Rua Veiga Miranda, 100 Ribeirão Preto, SP"
