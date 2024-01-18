@@ -47,10 +47,6 @@
       ]
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/dedicacao-bs.png"
-    },
-    {
       "type": "collection-shelf",
       "shuffle": true,
       "collection_id": "6205028a7963422eeef7e802:categories:Axiais:/axiais",
