@@ -1,7 +1,5 @@
 {
-  "css": ".footer__title {
-  color: #003CA1 !important;
-}",
+  "css": ".footer__title {\n    color: #003CA1 !important;\n} ",
   "html_head": "<meta name=\"adopt-website-id\" content=\"9bf7c039-8690-4220-b20a-11edabb0a6b6\" />\n          <script src=\"//tag.goadopt.io/injector.js?website_code=9bf7c039-8690-4220-b20a-11edabb0a6b6\" class=\"adopt-injector\"></script>",
   "html_body": ""
 }
