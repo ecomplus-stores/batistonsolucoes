@@ -4,6 +4,10 @@
   "sections": [
     {
       "type": "responsive-banner",
+      "img": "/img/uploads/home.png"
+    },
+    {
+      "type": "responsive-banner",
       "img": "/img/uploads/3.png"
     },
     {
