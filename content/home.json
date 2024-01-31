@@ -3,107 +3,24 @@
   "meta_description": "Procurando soluções? Confira as opções que a Batiston Soluções separou para você. Aqui você encontra produtos exclusivos, melhores preços do mercado e muita variedade. Tornamos seu ambiente agradável!",
   "sections": [
     {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/oferta-jogo-de-panelas-mercado-shops-banner-grande-3.jpg",
-          "mobile_img": "/img/uploads/oferta-jogo-de-panelas-mercado-shops-banner-grande-3.jpg"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/copia-de-oferta-jogo-de-panelas-mercado-shops-banner-grande-3-.jpg",
-          "mobile_img": "/img/uploads/copia-de-oferta-jogo-de-panelas-mercado-shops-banner-grande-3-.jpg"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/pintura-termica-site-1-.jpg",
-          "mobile_img": "/img/uploads/confira-2-.jpg",
-          "link": "https://www.batistonsolucoes.shop/tinta-isolante-termica-para-telhas-18l-bs-therm"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/copia-de-climatizador-industrial-1-.jpg",
-          "mobile_img": "/img/uploads/copia-de-climatizador-industrial-1-.jpg"
-        }
-      ]
+      "type": "responsive-banner",
+      "img": "/img/uploads/3.png"
     },
     {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": false,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/confira-2-.jpg"
-        }
-      ]
+      "type": "responsive-banner",
+      "img": "/img/uploads/4.png"
     },
     {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "collection_id": "6205028a7963422eeef7e802:categories:Axiais:/axiais",
-      "sort": "slug",
-      "title": "Exaustores",
-      "headless": false,
-      "limit": 20,
-      "page": 1
+      "type": "responsive-banner",
+      "img": "/img/uploads/5.png"
     },
     {
-      "type": "banner-slider",
-      "autoplay": 0,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/climatizadores-evaporativos-2-.jpg",
-          "mobile_img": "/img/uploads/climatizadores-evaporativos-2-.jpg"
-        }
-      ]
+      "type": "responsive-banner",
+      "img": "/img/uploads/6.png"
     },
     {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "limit": 20,
-      "page": 1,
-      "collection_id": "620502b87963422eeef7e893:categories:Industriais:/industriais",
-      "title": "Industriais",
-      "sort": "slug"
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": false,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/copia-de-climatizadores-evaporativos-2-.jpg"
-        }
-      ]
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "620501b07963422eeef7e6b9:categories:Climatizadores Evaporativos:/climatizadores-evaporativos",
-      "sort": "slug"
-    },
-    {
-      "type": "brands-carousel",
-      "limit": 24,
-      "offset": 0,
-      "sort": "name",
-      "autoplay": 5000
+      "type": "responsive-banner",
+      "img": "/img/uploads/7.png"
     }
   ]
 }
