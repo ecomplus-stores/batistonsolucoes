@@ -8,6 +8,10 @@
     },
     {
       "type": "responsive-banner",
+      "img": "/img/uploads/services.png"
+    },
+    {
+      "type": "responsive-banner",
       "img": "/img/uploads/3.png"
     },
     {
