@@ -3,32 +3,88 @@
   "meta_description": "Procurando soluções? Confira as opções que a Batiston Soluções separou para você. Aqui você encontra produtos exclusivos, melhores preços do mercado e muita variedade. Tornamos seu ambiente agradável!",
   "sections": [
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/home.png"
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/home.png"
+        }
+      ]
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/services.png"
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/services.png"
+        }
+      ]
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/3.png"
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/3.png"
+        }
+      ]
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/4.png"
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/4.png"
+        }
+      ]
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/5.png"
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/5.png"
+        }
+      ]
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/6.png"
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/6.png"
+        }
+      ]
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/7.png"
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/7.png"
+        }
+      ]
     }
   ]
 }
