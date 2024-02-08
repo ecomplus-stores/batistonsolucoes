@@ -34,7 +34,7 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/3.jpg"
+          "img": "/img/uploads/dedicacao-bs.png"
         }
       ]
     },
@@ -70,7 +70,7 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/dedicacao-bs.png"
+          "img": "/img/uploads/8.jpg"
         }
       ]
     },
@@ -83,18 +83,6 @@
           "start": "",
           "end": "",
           "img": "/img/uploads/7.jpg"
-        }
-      ]
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": false,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/8.jpg"
         }
       ]
     }
